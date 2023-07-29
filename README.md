@@ -9,7 +9,7 @@ https://flashcard-generator-bb814.web.app/
 Clone the project
 
 ```
- git clone https://github.com/Lakshy18/AlmaBetter_flashcard_generator.git
+ git clone https://github.com/Lakshy18/AlmaBetter_flashcard_generator_project.git
 ```
 Go to the project directory
 
